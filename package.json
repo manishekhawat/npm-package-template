@@ -62,7 +62,8 @@
   },
   "release": {
     "branches": [
-      "master"
+      "master",
+      "main"
     ]
   },
   "publishConfig": {
